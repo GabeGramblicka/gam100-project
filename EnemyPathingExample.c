@@ -120,3 +120,4 @@ void MoveEnemies(object* enemy, int count, EnemyPoints points[], float SPEED)
 		enemy->arrayStart = 0;
 	}
 }
+// Copyright © 2023 DigiPen, All rights reserved.
